@@ -2,7 +2,7 @@
     "name": "@titan-syndicate/linode-basic",
     "main": "bin/index.js",
     "respository": "https://github.com/titan-syndicate/pulumi-managed-infrastructure",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "devDependencies": {
         "@types/node": "^14"
     },
