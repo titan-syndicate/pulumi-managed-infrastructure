@@ -1,5 +1,5 @@
 {
-    "name": "linode-basic",
+    "name": "@titan-syndicate/linode-basic",
     "main": "index.ts",
     "devDependencies": {
         "@types/node": "^14"
